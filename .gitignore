@@ -3,6 +3,5 @@ Debug
 *.vcxproj
 *.filters
 *.user
-targetver.h
 stdafx.cpp
 .vs
